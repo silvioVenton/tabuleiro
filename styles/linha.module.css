@@ -1,0 +1,7 @@
+.linhas{
+    display: flex;
+    
+}
+.linhaReverso{
+    flex-direction: row-reverse;
+}
